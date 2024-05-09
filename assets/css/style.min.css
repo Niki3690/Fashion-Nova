@@ -18655,6 +18655,8 @@ table {
 }
 
 
+
+
 @media (max-width: 425px) {
   .checkout_coupon .btn {
       margin-left: 20px;
@@ -19881,6 +19883,8 @@ table {
   color:  #2E69CE;
 }
 
+
+
 .mobile-header-bg-color--golden {
   background: #d1e5f4;
 }
@@ -20507,10 +20511,10 @@ table {
   left: 50%;
   transform: translateX(-50%);
   width: 80%;
-  color: #fff;
+  color:#2e69ce;;
   background: rgba(0, 0, 0, 0);
   font-size: 21px;
-  font-weight: 300;
+  font-weight: 700;
   text-align: center;
   border: 0;
   margin: 0 auto;
@@ -20518,7 +20522,7 @@ table {
   padding-left: 30px;
   padding-right: 30px;
   outline: 0;
-  border-bottom: 2px solid #fff;
+  border-bottom: 2px solid ;
 }
 
 .search-modal input[type="search"]:focus {
@@ -20537,9 +20541,9 @@ table {
   position: fixed;
   top: 15px;
   right: 15px;
-  color: #fff;
+  color: black;
   opacity: 1;
-  font-size: 27px;
+  font-size: 40px;
 }
 
 .modal {
@@ -20850,3 +20854,6 @@ table {
     }
 
 
+    /* .page-amount span{
+      padding-left: 15px;
+  } */
