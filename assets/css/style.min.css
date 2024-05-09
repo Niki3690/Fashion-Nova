@@ -18654,6 +18654,14 @@ table {
   margin-left: 20px;
 }
 
+
+@media (max-width: 425px) {
+  .checkout_coupon .btn {
+      margin-left: 20px;
+      margin-top: 15px;
+  }
+}
+
 .country_option {
   width: 100%;
 }

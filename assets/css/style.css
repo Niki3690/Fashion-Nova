@@ -18618,6 +18618,13 @@ table {
     margin-left: 20px;
 }
 
+@media (min-width: 425px) {
+    .checkout_coupon .btn {
+        margin-left: 20px;
+        margin-top: 15px;
+    }
+}
+
 .country_option {
     width: 100%;
 }
@@ -18812,6 +18819,10 @@ table {
 .faq-accordian-single-item {
     margin-bottom: 15px;
 }
+
+
+
+
 
 .faq-accordian label {
     padding: 5px 20px;
