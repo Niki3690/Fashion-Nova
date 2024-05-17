@@ -16513,6 +16513,7 @@ border: 2px solid #2E69CE;
 
 .product-default-single-item .content-right .price del {
   padding-right: 10px;
+  
 }
 
 .product-default-single-item:hover > .image-box > .image-link img:nth-child(2) {
@@ -17875,10 +17876,12 @@ a.ui-button:active {
 
 .comment-content-right a {
   color: #24262b;
+  
 }
 
 .comment-content-right a i {
   padding-right: 10px;
+  
 }
 
 table {
