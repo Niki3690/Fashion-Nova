@@ -17163,6 +17163,25 @@ input {
     line-height: 30px;
 }
 
+@media (max-width: 320px) {
+    .sort-tab-btn .nav-link  {
+    width: 40px;
+    height: 40px;
+    }
+
+    .sort-tab-btn .nav-link >img{
+        margin-left: -3px;
+        margin-top:-8px;
+
+    }
+
+
+    .page-amount{
+        margin-left: 6px;
+    }
+  }
+
+
 .sort-tab-btn .nav-link.active {
     background-color: #2E69CE;
 }

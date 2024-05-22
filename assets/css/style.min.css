@@ -20507,6 +20507,7 @@ table {
   z-index: 99999;
 }
 
+
 .search-modal.open {
   transform: translate(0, 0);
   opacity: 1;
