@@ -16678,6 +16678,12 @@ input {
     margin-right: 0;
 }
 
+@media (max-width: 576px) {
+    .product-action-icon-link-list  .btn-lg{
+     padding: 7px !important;
+    }
+}
+
 
 
 .product-listview-single-item {
@@ -17173,7 +17179,16 @@ input {
         margin-left: -3px;
         margin-top:-8px;
 
+
     }
+
+    .deactiveee >img {
+        margin-left:-5px !important;
+        margin-top:-10px !important;
+      
+    }
+     
+    
 
     .page-amount{
         /* margin-left: 6px; */
