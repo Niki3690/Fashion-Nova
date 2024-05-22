@@ -19927,8 +19927,9 @@ table {
   font-size: 16px;
   position: relative;
   padding-bottom: 20px;
-  margin-bottom: 23px;
+  margin-bottom: 20px;
   text-transform: uppercase;
+  margin-top: 20px;
 }
 
 .footer-top .footer-widget-single-item .title::after {
@@ -20499,7 +20500,7 @@ table {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: #D1E5F4;
   transition: all 0.5s ease-in-out;
   transform: translate(-100%, 0);
   opacity: 0;
