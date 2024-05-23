@@ -20372,6 +20372,7 @@ table {
 .offcanvas-cart-item-link {
   display: block;
   font-weight: 700;
+  margin-top: -65px;
 }
 
 .offcanvas-cart-item-link:hover {
@@ -20398,6 +20399,7 @@ table {
 
 .offcanvas-cart-item-delete {
   color: red;
+  margin-top: -95px;
 }
 
 .offcanvas-cart-item-delete:hover {
@@ -20450,8 +20452,8 @@ table {
 .offcanvas-wishlist-item-link {
   display: block;
   font-weight: 700;
+  margin-top: -65px;
 }
-
 .offcanvas-wishlist-item-link:hover {
   color: #24262b;
 }
@@ -20471,6 +20473,7 @@ table {
 
 .offcanvas-wishlist-item-delete {
   color: red;
+  margin-top: -95px;
 }
 
 .offcanvas-wishlist-item-delete:hover {
