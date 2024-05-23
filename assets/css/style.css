@@ -20456,8 +20456,8 @@ Pages - Contact
 }
 
 .offcanvas-cart-item-delete {
-    color: red;
-    margin-top: -95px;
+    /* color: red; */
+    margin-top: -100px;
 }
 
 .offcanvas-cart-item-delete:hover {
@@ -20531,8 +20531,8 @@ Pages - Contact
 }
 
 .offcanvas-wishlist-item-delete {
-    color: red;
-    margin-top: -95px;
+    /* color: red; */
+    margin-top: -100px;
 }
 
 .offcanvas-wishlist-item-delete:hover {
